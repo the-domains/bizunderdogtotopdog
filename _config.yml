@@ -1,7 +1,7 @@
 name: BizUnderdogToTopdog
 favicon: null
-layout_spectrum: 0.48708
-typography_spectrum: 0.0729
+layout_spectrum: 0.4717
+typography_spectrum: 0.28277
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#8ed1fc'
-    - '#034e6b'
-    - '#2a839a'
-    - '#83463a'
-    - '#141317'
-  brandStrength: 0.25
-  lightness: 0.10906056384555995
+    - '#ffffff'
+    - '#000b00'
+    - '#9cb5d6'
+    - '#447f00'
+    - '#0032a5'
+  brandStrength: 0.5
+  lightness: 0.125
   saturation: 0.3446710032876581
   rhythmicContrast: 0.3494619866833091
 purpose: []
