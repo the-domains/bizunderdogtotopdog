@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BizUnderdogToTopdog]]></title>
         <description><![CDATA[BizUnderdogToTopdog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bizunderdogtotopdog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 02:41:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 02:43:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bizunderdogtotopdog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome TOP DOGS!</p>]]></description>
-            <link>undefinedwelocm/index.html</link>
+            <link>https://thegrid.ai/bizunderdogtotopdog/welocm/index.html</link>
             <guid isPermaLink="false">213fac22-7560-472a-94e1-b4f3dda37801</guid>
-            <pubDate>Fri, 18 Mar 2016 02:41:29 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 02:43:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
